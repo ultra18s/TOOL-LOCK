@@ -1,6 +1,6 @@
 framework = {
     Enabled = true,
-    Prediction = 0.1433,
+    Prediction = 0.1379,
     HitscanPriority = "HumanoidRootPart",
     FOV = 200,
     Scan = true,
